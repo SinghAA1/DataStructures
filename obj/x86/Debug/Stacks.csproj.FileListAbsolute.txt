@@ -1,0 +1,9 @@
+/Users/amansingh/Projects/Stacks/Stacks/obj/x86/Debug/Stacks.csproj.CoreCompileInputs.cache
+/Users/amansingh/Projects/Stacks/Stacks/bin/Debug/Stacks.exe
+/Users/amansingh/Projects/Stacks/Stacks/bin/Debug/Stacks.pdb
+/Users/amansingh/Projects/Stacks/Stacks/bin/Debug/nunit.framework.dll
+/Users/amansingh/Projects/Stacks/Stacks/bin/Debug/nunit.framework.pdb
+/Users/amansingh/Projects/Stacks/Stacks/bin/Debug/nunit.framework.xml
+/Users/amansingh/Projects/Stacks/Stacks/obj/x86/Debug/Stacks.csprojResolveAssemblyReference.cache
+/Users/amansingh/Projects/Stacks/Stacks/obj/x86/Debug/Stacks.exe
+/Users/amansingh/Projects/Stacks/Stacks/obj/x86/Debug/Stacks.pdb
